@@ -1,0 +1,1251 @@
+[
+    {
+        "label": "MetadataManager",
+        "importPath": "api.Builder_py.MetadataManager",
+        "description": "api.Builder_py.MetadataManager",
+        "isExtraImport": true,
+        "detail": "api.Builder_py.MetadataManager",
+        "documentation": {}
+    },
+    {
+        "label": "MetadataManager",
+        "importPath": "api.Builder_py.MetadataManager",
+        "description": "api.Builder_py.MetadataManager",
+        "isExtraImport": true,
+        "detail": "api.Builder_py.MetadataManager",
+        "documentation": {}
+    },
+    {
+        "label": "KQLMetadataManager",
+        "importPath": "api.Builder_py.KQLMetadataManager",
+        "description": "api.Builder_py.KQLMetadataManager",
+        "isExtraImport": true,
+        "detail": "api.Builder_py.KQLMetadataManager",
+        "documentation": {}
+    },
+    {
+        "label": "KQLMetadataManager",
+        "importPath": "api.Builder_py.KQLMetadataManager",
+        "description": "api.Builder_py.KQLMetadataManager",
+        "isExtraImport": true,
+        "detail": "api.Builder_py.KQLMetadataManager",
+        "documentation": {}
+    },
+    {
+        "label": "openai",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "openai",
+        "description": "openai",
+        "detail": "openai",
+        "documentation": {}
+    },
+    {
+        "label": "asyncio",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "asyncio",
+        "description": "asyncio",
+        "detail": "asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "LLMClient",
+        "importPath": "api.Builder_py.LLMClient",
+        "description": "api.Builder_py.LLMClient",
+        "isExtraImport": true,
+        "detail": "api.Builder_py.LLMClient",
+        "documentation": {}
+    },
+    {
+        "label": "LLMClient",
+        "importPath": "api.Builder_py.LLMClient",
+        "description": "api.Builder_py.LLMClient",
+        "isExtraImport": true,
+        "detail": "api.Builder_py.LLMClient",
+        "documentation": {}
+    },
+    {
+        "label": "ABC",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "ABC",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "ABC",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "ABC",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "ABC",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "ABC",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "ABC",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "ABC",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "ABC",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "PromptController",
+        "importPath": "api.Builder_py.PromptController",
+        "description": "api.Builder_py.PromptController",
+        "isExtraImport": true,
+        "detail": "api.Builder_py.PromptController",
+        "documentation": {}
+    },
+    {
+        "label": "PromptController",
+        "importPath": "api.Builder_py.PromptController",
+        "description": "api.Builder_py.PromptController",
+        "isExtraImport": true,
+        "detail": "api.Builder_py.PromptController",
+        "documentation": {}
+    },
+    {
+        "label": "LLMAdapter",
+        "importPath": "api.Builder_py.LLMAdapter",
+        "description": "api.Builder_py.LLMAdapter",
+        "isExtraImport": true,
+        "detail": "api.Builder_py.LLMAdapter",
+        "documentation": {}
+    },
+    {
+        "label": "LLMAdapter",
+        "importPath": "api.Builder_py.LLMAdapter",
+        "description": "api.Builder_py.LLMAdapter",
+        "isExtraImport": true,
+        "detail": "api.Builder_py.LLMAdapter",
+        "documentation": {}
+    },
+    {
+        "label": "QueryExecutionAdapter",
+        "importPath": "api.Builder_py.QueryExecutionAdapter",
+        "description": "api.Builder_py.QueryExecutionAdapter",
+        "isExtraImport": true,
+        "detail": "api.Builder_py.QueryExecutionAdapter",
+        "documentation": {}
+    },
+    {
+        "label": "GPTClient",
+        "importPath": "api.Builder_py.GPTClient",
+        "description": "api.Builder_py.GPTClient",
+        "isExtraImport": true,
+        "detail": "api.Builder_py.GPTClient",
+        "documentation": {}
+    },
+    {
+        "label": "ILLMClient",
+        "importPath": "api.Builder_py.ILLMClient",
+        "description": "api.Builder_py.ILLMClient",
+        "isExtraImport": true,
+        "detail": "api.Builder_py.ILLMClient",
+        "documentation": {}
+    },
+    {
+        "label": "IMetadataManager",
+        "importPath": "api.Builder_py.IMetadataManager",
+        "description": "api.Builder_py.IMetadataManager",
+        "isExtraImport": true,
+        "detail": "api.Builder_py.IMetadataManager",
+        "documentation": {}
+    },
+    {
+        "label": "INLPProvider",
+        "importPath": "api.Builder_py.NLPProvider",
+        "description": "api.Builder_py.NLPProvider",
+        "isExtraImport": true,
+        "detail": "api.Builder_py.NLPProvider",
+        "documentation": {}
+    },
+    {
+        "label": "NLPProvider",
+        "importPath": "api.Builder_py.NLPProvider",
+        "description": "api.Builder_py.NLPProvider",
+        "isExtraImport": true,
+        "detail": "api.Builder_py.NLPProvider",
+        "documentation": {}
+    },
+    {
+        "label": "UserNLPClient",
+        "importPath": "api.Builder_py.UserNLPClient",
+        "description": "api.Builder_py.UserNLPClient",
+        "isExtraImport": true,
+        "detail": "api.Builder_py.UserNLPClient",
+        "documentation": {}
+    },
+    {
+        "label": "UserNLPClient",
+        "importPath": "api.Builder_py.UserNLPClient",
+        "description": "api.Builder_py.UserNLPClient",
+        "isExtraImport": true,
+        "detail": "api.Builder_py.UserNLPClient",
+        "documentation": {}
+    },
+    {
+        "label": "INLPProvider",
+        "importPath": "api.Builder_py.INLPProvider",
+        "description": "api.Builder_py.INLPProvider",
+        "isExtraImport": true,
+        "detail": "api.Builder_py.INLPProvider",
+        "documentation": {}
+    },
+    {
+        "label": "PromptBuilder",
+        "importPath": "api.Builder_py.PromptBuilder",
+        "description": "api.Builder_py.PromptBuilder",
+        "isExtraImport": true,
+        "detail": "api.Builder_py.PromptBuilder",
+        "documentation": {}
+    },
+    {
+        "label": "PromptBuilder",
+        "importPath": "api.Builder_py.PromptBuilder",
+        "description": "api.Builder_py.PromptBuilder",
+        "isExtraImport": true,
+        "detail": "api.Builder_py.PromptBuilder",
+        "documentation": {}
+    },
+    {
+        "label": "SyntheticsGPTPromptBuilder",
+        "importPath": "api.Builder_py.SyntheticsGPTPromptBuilder",
+        "description": "api.Builder_py.SyntheticsGPTPromptBuilder",
+        "isExtraImport": true,
+        "detail": "api.Builder_py.SyntheticsGPTPromptBuilder",
+        "documentation": {}
+    },
+    {
+        "label": "SyntheticsGPTPromptBuilder",
+        "importPath": "api.Builder_py.SyntheticsGPTPromptBuilder",
+        "description": "api.Builder_py.SyntheticsGPTPromptBuilder",
+        "isExtraImport": true,
+        "detail": "api.Builder_py.SyntheticsGPTPromptBuilder",
+        "documentation": {}
+    },
+    {
+        "label": "IPromptBuilder",
+        "importPath": "api.Builder_py.IPromptBuilder",
+        "description": "api.Builder_py.IPromptBuilder",
+        "isExtraImport": true,
+        "detail": "api.Builder_py.IPromptBuilder",
+        "documentation": {}
+    },
+    {
+        "label": "NLPAdapter",
+        "importPath": "api.Builder_py.NLPAdapter",
+        "description": "api.Builder_py.NLPAdapter",
+        "isExtraImport": true,
+        "detail": "api.Builder_py.NLPAdapter",
+        "documentation": {}
+    },
+    {
+        "label": "NLPAdapter",
+        "importPath": "api.Builder_py.NLPAdapter",
+        "description": "api.Builder_py.NLPAdapter",
+        "isExtraImport": true,
+        "detail": "api.Builder_py.NLPAdapter",
+        "documentation": {}
+    },
+    {
+        "label": "DomainAdapter",
+        "importPath": "api.Builder_py.DomainAdapter",
+        "description": "api.Builder_py.DomainAdapter",
+        "isExtraImport": true,
+        "detail": "api.Builder_py.DomainAdapter",
+        "documentation": {}
+    },
+    {
+        "label": "PromptAdapter",
+        "importPath": "api.Builder_py.PromptAdapter",
+        "description": "api.Builder_py.PromptAdapter",
+        "isExtraImport": true,
+        "detail": "api.Builder_py.PromptAdapter",
+        "documentation": {}
+    },
+    {
+        "label": "SQLExecutor",
+        "importPath": "api.Builder_py.SQLExecutor",
+        "description": "api.Builder_py.SQLExecutor",
+        "isExtraImport": true,
+        "detail": "api.Builder_py.SQLExecutor",
+        "documentation": {}
+    },
+    {
+        "label": "IQueryExecutor",
+        "importPath": "api.Builder_py.IQueryExecutor",
+        "description": "api.Builder_py.IQueryExecutor",
+        "isExtraImport": true,
+        "detail": "api.Builder_py.IQueryExecutor",
+        "documentation": {}
+    },
+    {
+        "label": "requests",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "requests",
+        "description": "requests",
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "QueryExecutor",
+        "importPath": "api.Builder_py.QueryExecutor",
+        "description": "api.Builder_py.QueryExecutor",
+        "isExtraImport": true,
+        "detail": "api.Builder_py.QueryExecutor",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "UserInput",
+        "importPath": "api.models",
+        "description": "api.models",
+        "isExtraImport": true,
+        "detail": "api.models",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "importPath": "api.views",
+        "description": "api.views",
+        "isExtraImport": true,
+        "detail": "api.views",
+        "documentation": {}
+    },
+    {
+        "label": "csrf_exempt",
+        "importPath": "django.views.decorators.csrf",
+        "description": "django.views.decorators.csrf",
+        "isExtraImport": true,
+        "detail": "django.views.decorators.csrf",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "api_view",
+        "importPath": "rest_framework.decorators",
+        "description": "rest_framework.decorators",
+        "isExtraImport": true,
+        "detail": "rest_framework.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Command",
+        "importPath": "django.core.management.commands.runserver",
+        "description": "django.core.management.commands.runserver",
+        "isExtraImport": true,
+        "detail": "django.core.management.commands.runserver",
+        "documentation": {}
+    },
+    {
+        "label": "TemplateView",
+        "importPath": "django.views.generic",
+        "description": "django.views.generic",
+        "isExtraImport": true,
+        "detail": "django.views.generic",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "DomainAdapter",
+        "kind": 6,
+        "importPath": "api.Builder_py.DomainAdapter",
+        "description": "api.Builder_py.DomainAdapter",
+        "peekOfCode": "class DomainAdapter:\n    @staticmethod\n    def getMetadataManager() -> MetadataManager:\n        metadataManager = KQLMetadataManager()\n        return metadataManager",
+        "detail": "api.Builder_py.DomainAdapter",
+        "documentation": {}
+    },
+    {
+        "label": "GPTClient",
+        "kind": 6,
+        "importPath": "api.Builder_py.GPTClient",
+        "description": "api.Builder_py.GPTClient",
+        "peekOfCode": "class GPTClient(LLMClient): \n    def __init__(self):\n        super().__init__()\n        self.model_name = \"syntheticsKQL\"\n    async def get_completions_async(self, prompts: List[str]) -> str:\n        final_prompt = \"\\n\"\n        for prompt in prompts:\n            final_prompt +=\"\\n\" + prompt + \"\\n\"\n        #final_prompt = \"\\n\".join(prompts)\n        print(final_prompt)",
+        "detail": "api.Builder_py.GPTClient",
+        "documentation": {}
+    },
+    {
+        "label": "openai.api_type",
+        "kind": 5,
+        "importPath": "api.Builder_py.GPTClient",
+        "description": "api.Builder_py.GPTClient",
+        "peekOfCode": "openai.api_type = \"azure\"\nopenai.api_base = \"https://syntheticsoai.openai.azure.com/\"\nopenai.api_version = \"2022-12-01\"\nopenai.api_key = \"d12cf2ed7e14418ab2fb6783b3414e1a\"\nclass GPTClient(LLMClient): \n    def __init__(self):\n        super().__init__()\n        self.model_name = \"syntheticsKQL\"\n    async def get_completions_async(self, prompts: List[str]) -> str:\n        final_prompt = \"\\n\"",
+        "detail": "api.Builder_py.GPTClient",
+        "documentation": {}
+    },
+    {
+        "label": "openai.api_base",
+        "kind": 5,
+        "importPath": "api.Builder_py.GPTClient",
+        "description": "api.Builder_py.GPTClient",
+        "peekOfCode": "openai.api_base = \"https://syntheticsoai.openai.azure.com/\"\nopenai.api_version = \"2022-12-01\"\nopenai.api_key = \"d12cf2ed7e14418ab2fb6783b3414e1a\"\nclass GPTClient(LLMClient): \n    def __init__(self):\n        super().__init__()\n        self.model_name = \"syntheticsKQL\"\n    async def get_completions_async(self, prompts: List[str]) -> str:\n        final_prompt = \"\\n\"\n        for prompt in prompts:",
+        "detail": "api.Builder_py.GPTClient",
+        "documentation": {}
+    },
+    {
+        "label": "openai.api_version",
+        "kind": 5,
+        "importPath": "api.Builder_py.GPTClient",
+        "description": "api.Builder_py.GPTClient",
+        "peekOfCode": "openai.api_version = \"2022-12-01\"\nopenai.api_key = \"d12cf2ed7e14418ab2fb6783b3414e1a\"\nclass GPTClient(LLMClient): \n    def __init__(self):\n        super().__init__()\n        self.model_name = \"syntheticsKQL\"\n    async def get_completions_async(self, prompts: List[str]) -> str:\n        final_prompt = \"\\n\"\n        for prompt in prompts:\n            final_prompt +=\"\\n\" + prompt + \"\\n\"",
+        "detail": "api.Builder_py.GPTClient",
+        "documentation": {}
+    },
+    {
+        "label": "openai.api_key",
+        "kind": 5,
+        "importPath": "api.Builder_py.GPTClient",
+        "description": "api.Builder_py.GPTClient",
+        "peekOfCode": "openai.api_key = \"d12cf2ed7e14418ab2fb6783b3414e1a\"\nclass GPTClient(LLMClient): \n    def __init__(self):\n        super().__init__()\n        self.model_name = \"syntheticsKQL\"\n    async def get_completions_async(self, prompts: List[str]) -> str:\n        final_prompt = \"\\n\"\n        for prompt in prompts:\n            final_prompt +=\"\\n\" + prompt + \"\\n\"\n        #final_prompt = \"\\n\".join(prompts)",
+        "detail": "api.Builder_py.GPTClient",
+        "documentation": {}
+    },
+    {
+        "label": "ILLMClient",
+        "kind": 6,
+        "importPath": "api.Builder_py.ILLMClient",
+        "description": "api.Builder_py.ILLMClient",
+        "peekOfCode": "class ILLMClient(ABC):\n   @abstractmethod\n   def invoke_llm_command_async(self, prompts: List[str], model: str) -> str:\n        pass",
+        "detail": "api.Builder_py.ILLMClient",
+        "documentation": {}
+    },
+    {
+        "label": "IMetadataManager",
+        "kind": 6,
+        "importPath": "api.Builder_py.IMetadataManager",
+        "description": "api.Builder_py.IMetadataManager",
+        "peekOfCode": "class IMetadataManager(ABC):\n    @abstractmethod\n    def getObjectMetadata(self, objectName: List[str]) -> List[str]:\n        pass",
+        "detail": "api.Builder_py.IMetadataManager",
+        "documentation": {}
+    },
+    {
+        "label": "INLPProvider",
+        "kind": 6,
+        "importPath": "api.Builder_py.INLPProvider",
+        "description": "api.Builder_py.INLPProvider",
+        "peekOfCode": "class INLPProvider(ABC):\n    @abstractmethod\n    def getIntents(self, userPrompt: str) -> List[str]:\n        pass\n    @abstractmethod\n    def getEntities(self, userPrompt: str) -> List[str]:\n        pass",
+        "detail": "api.Builder_py.INLPProvider",
+        "documentation": {}
+    },
+    {
+        "label": "IPromptBuilder",
+        "kind": 6,
+        "importPath": "api.Builder_py.IPromptBuilder",
+        "description": "api.Builder_py.IPromptBuilder",
+        "peekOfCode": "class IPromptBuilder(ABC):\n    @abstractmethod\n    def ShowPrompts(self) -> None:\n        pass\n    @abstractmethod\n    def buildPrompts(self, tableschema: List[str], userPrompt: str) -> List[str]:\n        pass",
+        "detail": "api.Builder_py.IPromptBuilder",
+        "documentation": {}
+    },
+    {
+        "label": "IQueryExecutor",
+        "kind": 6,
+        "importPath": "api.Builder_py.IQueryExecutor",
+        "description": "api.Builder_py.IQueryExecutor",
+        "peekOfCode": "class IQueryExecutor(ABC):\n    @abstractmethod\n    async def execute_query(self, query_type: str, query: str) -> str:\n        pass",
+        "detail": "api.Builder_py.IQueryExecutor",
+        "documentation": {}
+    },
+    {
+        "label": "KQLMetadataManager",
+        "kind": 6,
+        "importPath": "api.Builder_py.KQLMetadataManager",
+        "description": "api.Builder_py.KQLMetadataManager",
+        "peekOfCode": "class KQLMetadataManager(MetadataManager):\n    def __init__(self):\n        self.kustoClusterURL = None\n        self.json = '''{\n            \"TestExecConfiguration\": \"TestExecConfigID,TestName,TestExecConfigName,TestInvocationConfigParameters,LastUpdatedAt\",\n            \"Executionlog\": \"TestIDExecutionID,ResourceID,SourceComponent,SubComponent,Operation,LogInfo,Parameters,StartTimeUTC,EndTimeUTC,Account,AdditionalInfo,Iteration,VmName,TestName,ExecutionLogID,InsertDateTimeUTC,InsertedDateUTC,InsertedTimeUTC\",\n            \"Resources\": \"ProvisionIDazEnvironment,location,name,computerName,platformFaultDomain,platformUpdateDomain,osType,subscriptionId,tags,vmId,vmScaleSetName,vmSize,zone,publisher,resourceGroupName,resourceId,sku,tagsList,placementGroupId,imageReferenceId,ResourcePersistID,ResourcePersistenceDateTimeUTC\",\n            \"ResourceDisk\": \"ProvisionIDVMId,DiskType,caching,createOption,diskSizeGB,name,writeAcceleratorEnabled,imageURI,managedDiskId,storageAccountType,VHDUri,ResourcePersistID\",\n            \"ResourceNetwork\": \"ProvisionIDVMId,MACAddress,IPv4Address,IPv4Subnet,IPv6,ResourcePersistID\",\n            \"TcpPingResults\": \"TestIDDeploymentID,WorkloadID,TestExecConfigID,ExecutionID,IterationStartTime,IterationEndTime,EnvironmentName,Iteration,SequenceId,SeqStartDateTime,SeqEndDateTime,HostIp,SignalText,LatencyValue,TcppingPersistanceId,ErrorDescription\",",
+        "detail": "api.Builder_py.KQLMetadataManager",
+        "documentation": {}
+    },
+    {
+        "label": "LLMAdapter",
+        "kind": 6,
+        "importPath": "api.Builder_py.LLMAdapter",
+        "description": "api.Builder_py.LLMAdapter",
+        "peekOfCode": "class LLMAdapter:\n    @staticmethod\n    def get_llm_instance() -> LLMClient:\n        llm_client = GPTClient()\n        return llm_client",
+        "detail": "api.Builder_py.LLMAdapter",
+        "documentation": {}
+    },
+    {
+        "label": "LLMClient",
+        "kind": 6,
+        "importPath": "api.Builder_py.LLMClient",
+        "description": "api.Builder_py.LLMClient",
+        "peekOfCode": "class LLMClient(ILLMClient):\n    def __init__(self):\n        self.temperature = 0.0\n        self.min_tokens = 100\n        self.max_tokens = 500\n        self.stop_sequences = []\n        self.nucleus_sampling_factor = 0.0\n        self.frequency_penalty = 0.0\n        self.presence_penalty = 0.0\n        self.oai_client = None",
+        "detail": "api.Builder_py.LLMClient",
+        "documentation": {}
+    },
+    {
+        "label": "MetadataManager",
+        "kind": 6,
+        "importPath": "api.Builder_py.MetadataManager",
+        "description": "api.Builder_py.MetadataManager",
+        "peekOfCode": "class MetadataManager(IMetadataManager):\n    @abstractmethod\n    def getObjectMetadata(self, objectName: List[str]) -> List[str]:\n        pass",
+        "detail": "api.Builder_py.MetadataManager",
+        "documentation": {}
+    },
+    {
+        "label": "NLPAdapter",
+        "kind": 6,
+        "importPath": "api.Builder_py.NLPAdapter",
+        "description": "api.Builder_py.NLPAdapter",
+        "peekOfCode": "class NLPAdapter:\n    @staticmethod\n    def getNLPClient(persona: str) -> UserNLPClient:\n        nlpClient = UserNLPClient()\n        return nlpClient",
+        "detail": "api.Builder_py.NLPAdapter",
+        "documentation": {}
+    },
+    {
+        "label": "NLPProvider",
+        "kind": 6,
+        "importPath": "api.Builder_py.NLPProvider",
+        "description": "api.Builder_py.NLPProvider",
+        "peekOfCode": "class NLPProvider(INLPProvider):\n    def __init__(self, stopWords: List[str], wordBreaker: str):\n        self.stopWords = stopWords\n        self.wordBreaker = wordBreaker\n    @abstractmethod\n    def getEntities(self, userPrompt: str) -> List[str]:\n        pass\n    @abstractmethod\n    def getIntents(self, userPrompt: str) -> List[str]:\n        pass",
+        "detail": "api.Builder_py.NLPProvider",
+        "documentation": {}
+    },
+    {
+        "label": "Prompt",
+        "kind": 6,
+        "importPath": "api.Builder_py.Prompt",
+        "description": "api.Builder_py.Prompt",
+        "peekOfCode": "class Prompt:\n    def __init__(self, role: str, instruction: str):\n        self.role = role\n        self.instruction = instruction",
+        "detail": "api.Builder_py.Prompt",
+        "documentation": {}
+    },
+    {
+        "label": "PromptAdapter",
+        "kind": 6,
+        "importPath": "api.Builder_py.PromptAdapter",
+        "description": "api.Builder_py.PromptAdapter",
+        "peekOfCode": "class PromptAdapter:\n    @staticmethod\n    def get_prompt_builder() -> PromptBuilder:\n        prompt_builder = SyntheticsGPTPromptBuilder()\n        return prompt_builder",
+        "detail": "api.Builder_py.PromptAdapter",
+        "documentation": {}
+    },
+    {
+        "label": "PromptBuilder",
+        "kind": 6,
+        "importPath": "api.Builder_py.PromptBuilder",
+        "description": "api.Builder_py.PromptBuilder",
+        "peekOfCode": "class PromptBuilder(IPromptBuilder):\n    @abstractmethod\n    def buildPrompts(self, tableschema: List[str], userPrompt: str) -> List[str]:\n        pass\n    @abstractmethod\n    def ShowPrompts(self) -> None:\n        pass",
+        "detail": "api.Builder_py.PromptBuilder",
+        "documentation": {}
+    },
+    {
+        "label": "PromptController",
+        "kind": 6,
+        "importPath": "api.Builder_py.PromptController",
+        "description": "api.Builder_py.PromptController",
+        "peekOfCode": "class PromptController:\n    def __init__(self):\n        self.nlp_client = None\n        self.kql_metadata_manager = None\n        self.table_schema = []\n        self.table_names = []\n        self.prompts = []\n        self.persona = None\n    def set_persona(self, persona: str) -> None:\n        self.persona = persona",
+        "detail": "api.Builder_py.PromptController",
+        "documentation": {}
+    },
+    {
+        "label": "QueryExecutionAdapter",
+        "kind": 6,
+        "importPath": "api.Builder_py.QueryExecutionAdapter",
+        "description": "api.Builder_py.QueryExecutionAdapter",
+        "peekOfCode": "class QueryExecutionAdapter:\n    @staticmethod\n    def get_query_executor():\n        executor = SQLExecutor()\n        return executor",
+        "detail": "api.Builder_py.QueryExecutionAdapter",
+        "documentation": {}
+    },
+    {
+        "label": "QueryExecutor",
+        "kind": 6,
+        "importPath": "api.Builder_py.QueryExecutor",
+        "description": "api.Builder_py.QueryExecutor",
+        "peekOfCode": "class QueryExecutor(IQueryExecutor, ABC):\n    @abstractmethod\n    async def execute_query(self, query_type: str, query: str) -> str:\n        pass",
+        "detail": "api.Builder_py.QueryExecutor",
+        "documentation": {}
+    },
+    {
+        "label": "SQLExecutor",
+        "kind": 6,
+        "importPath": "api.Builder_py.SQLExecutor",
+        "description": "api.Builder_py.SQLExecutor",
+        "peekOfCode": "class SQLExecutor(QueryExecutor):\n    async def execute_query(self, query_type: str, query: str) -> str:\n        results = \"\"\n        values = {\n            \"Type\": query_type,\n            \"Query\": query.replace(\"\\n\", \" \")\n        }\n        try:\n            res = requests.post(\"http://localhost:8000/getData\", json=values)\n            if res.status_code == 200:",
+        "detail": "api.Builder_py.SQLExecutor",
+        "documentation": {}
+    },
+    {
+        "label": "SyntheticsGPTClient",
+        "kind": 6,
+        "importPath": "api.Builder_py.SyntheticsGPTClient",
+        "description": "api.Builder_py.SyntheticsGPTClient",
+        "peekOfCode": "class SyntheticsGPTClient:\n    def __init__(self):\n        self.nlp_client = None\n        self.kql_metadata_manager = None\n        self.gpt_client = None\n        self.prompts = []\n        self.model = \"\"\n    async def get_kql_output(self):\n        prompt_controller = PromptController()\n        self.prompts = prompt_controller.build_prompts(\"From tables TestRunDetails and Resources generate KQL Query to retrieve only last 10 resource names that ran 'Sybase' tests based on datetime\")",
+        "detail": "api.Builder_py.SyntheticsGPTClient",
+        "documentation": {}
+    },
+    {
+        "label": "SyntheticsGPTPromptBuilder",
+        "kind": 6,
+        "importPath": "api.Builder_py.SyntheticsGPTPromptBuilder",
+        "description": "api.Builder_py.SyntheticsGPTPromptBuilder",
+        "peekOfCode": "class SyntheticsGPTPromptBuilder(PromptBuilder):\n    def buildPrompts(self, tableschema: List[str], userPrompt: str) -> List[str]:\n        prompts = []\n        print(\"**************************\")\n        prompts.append(\"Given an input, generate a syntactically correct SQL Query for MSSQL. In the query, qualify columns as <TableName>.<ColumnName> format.\")\n        prompts.append(\"### SQL Tables with their properties:\\n\")\n        prompts.extend(tableschema)\n        #for table in tableschema:\n        #    prompts.append(table)\n        prompts.append(\"\\n### \" + userPrompt + \"\\nSELECT \")",
+        "detail": "api.Builder_py.SyntheticsGPTPromptBuilder",
+        "documentation": {}
+    },
+    {
+        "label": "UserNLPClient",
+        "kind": 6,
+        "importPath": "api.Builder_py.UserNLPClient",
+        "description": "api.Builder_py.UserNLPClient",
+        "peekOfCode": "class UserNLPClient(NLPProvider):\n    def __init__(self):\n        pass\n    def getEntities(self, userPrompt: str) -> List[str]:\n        tableNames = []\n        words = userPrompt.split(' ')\n        if \"Sybase_Results\" in words:\n            tableNames.append(\"Sybase_Results\")\n        if \"CassandraTestSummary\" in words:\n            tableNames.extend([\"CassandraTestSummary\", \"DeploymentMetadata\", \"TestInfraMetadata\"])",
+        "detail": "api.Builder_py.UserNLPClient",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "api.migrations.0001_initial",
+        "description": "api.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='UserInput',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('user_query', models.CharField(max_length=1000)),",
+        "detail": "api.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "ApiConfig",
+        "kind": 6,
+        "importPath": "api.apps",
+        "description": "api.apps",
+        "peekOfCode": "class ApiConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'api'",
+        "detail": "api.apps",
+        "documentation": {}
+    },
+    {
+        "label": "UserInput",
+        "kind": 6,
+        "importPath": "api.models",
+        "description": "api.models",
+        "peekOfCode": "class UserInput(models.Model):\n    user_query = models.CharField(max_length=1000)\n    table_name = models.CharField(max_length=1000)",
+        "detail": "api.models",
+        "documentation": {}
+    },
+    {
+        "label": "UserInputSerializer",
+        "kind": 6,
+        "importPath": "api.serializers",
+        "description": "api.serializers",
+        "peekOfCode": "class UserInputSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = UserInput\n        fields = ['user_query', 'table_name']",
+        "detail": "api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "api.urls",
+        "description": "api.urls",
+        "peekOfCode": "urlpatterns = [\n    path('', main),\n]",
+        "detail": "api.urls",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "api.views",
+        "description": "api.views",
+        "peekOfCode": "def main(request):\n    if request.method == 'POST':\n        print(request.data)\n        serializer = UserInputSerializer(data=request.data)\n        print(f\"s = {serializer}\")\n        if serializer.is_valid():\n            return Response(data=asyncio.run(test(serializer.data)), status=status.HTTP_201_CREATED)\n        return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)\n    elif request.method == 'GET':\n        return Response(\"Hello\", status=status.HTTP_200_OK)",
+        "detail": "api.views",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "LLM_query_builder.asgi",
+        "description": "LLM_query_builder.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "LLM_query_builder.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "LLM_query_builder.settings",
+        "description": "LLM_query_builder.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/4.2/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'django-insecure-c4qc536=k3+rjswja0z$9r@4!1h+uih%35!e=#70e-6y-+qpra'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "LLM_query_builder.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "LLM_query_builder.settings",
+        "description": "LLM_query_builder.settings",
+        "peekOfCode": "SECRET_KEY = 'django-insecure-c4qc536=k3+rjswja0z$9r@4!1h+uih%35!e=#70e-6y-+qpra'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "LLM_query_builder.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "LLM_query_builder.settings",
+        "description": "LLM_query_builder.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "LLM_query_builder.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "LLM_query_builder.settings",
+        "description": "LLM_query_builder.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'api.apps.ApiConfig',",
+        "detail": "LLM_query_builder.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "LLM_query_builder.settings",
+        "description": "LLM_query_builder.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'api.apps.ApiConfig',\n    'rest_framework',\n    'corsheaders'",
+        "detail": "LLM_query_builder.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "LLM_query_builder.settings",
+        "description": "LLM_query_builder.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n    'corsheaders.middleware.CorsMiddleware',\n]",
+        "detail": "LLM_query_builder.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CORS_ALLOW_ALL_ORIGINS",
+        "kind": 5,
+        "importPath": "LLM_query_builder.settings",
+        "description": "LLM_query_builder.settings",
+        "peekOfCode": "CORS_ALLOW_ALL_ORIGINS = True  \nCORS_ALLOW_CREDENTIALS = True\nCORS_ALLOWED_ORIGINS = [\n    'http://localhost:3000',\n    'http://127.0.0.1:3000',\n]\nrunserver.default_port = '5000'\nROOT_URLCONF = 'LLM_query_builder.urls'\nTEMPLATES = [\n    {",
+        "detail": "LLM_query_builder.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CORS_ALLOW_CREDENTIALS",
+        "kind": 5,
+        "importPath": "LLM_query_builder.settings",
+        "description": "LLM_query_builder.settings",
+        "peekOfCode": "CORS_ALLOW_CREDENTIALS = True\nCORS_ALLOWED_ORIGINS = [\n    'http://localhost:3000',\n    'http://127.0.0.1:3000',\n]\nrunserver.default_port = '5000'\nROOT_URLCONF = 'LLM_query_builder.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',",
+        "detail": "LLM_query_builder.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CORS_ALLOWED_ORIGINS",
+        "kind": 5,
+        "importPath": "LLM_query_builder.settings",
+        "description": "LLM_query_builder.settings",
+        "peekOfCode": "CORS_ALLOWED_ORIGINS = [\n    'http://localhost:3000',\n    'http://127.0.0.1:3000',\n]\nrunserver.default_port = '5000'\nROOT_URLCONF = 'LLM_query_builder.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [",
+        "detail": "LLM_query_builder.settings",
+        "documentation": {}
+    },
+    {
+        "label": "runserver.default_port",
+        "kind": 5,
+        "importPath": "LLM_query_builder.settings",
+        "description": "LLM_query_builder.settings",
+        "peekOfCode": "runserver.default_port = '5000'\nROOT_URLCONF = 'LLM_query_builder.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [\n            os.path.join(BASE_DIR, 'frontend/build')    \n        ],\n        'APP_DIRS': True,\n        'OPTIONS': {",
+        "detail": "LLM_query_builder.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "LLM_query_builder.settings",
+        "description": "LLM_query_builder.settings",
+        "peekOfCode": "ROOT_URLCONF = 'LLM_query_builder.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [\n            os.path.join(BASE_DIR, 'frontend/build')    \n        ],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [",
+        "detail": "LLM_query_builder.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "LLM_query_builder.settings",
+        "description": "LLM_query_builder.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [\n            os.path.join(BASE_DIR, 'frontend/build')    \n        ],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',",
+        "detail": "LLM_query_builder.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "LLM_query_builder.settings",
+        "description": "LLM_query_builder.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'LLM_query_builder.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/4.2/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation",
+        "detail": "LLM_query_builder.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "LLM_query_builder.settings",
+        "description": "LLM_query_builder.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/4.2/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "LLM_query_builder.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "LLM_query_builder.settings",
+        "description": "LLM_query_builder.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "LLM_query_builder.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "LLM_query_builder.settings",
+        "description": "LLM_query_builder.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = 'static/'\nSTATICFILES_DIRS = [\n    os.path.join(BASE_DIR, 'frontend/build/static')    \n]",
+        "detail": "LLM_query_builder.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "LLM_query_builder.settings",
+        "description": "LLM_query_builder.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = 'static/'\nSTATICFILES_DIRS = [\n    os.path.join(BASE_DIR, 'frontend/build/static')    \n]\n# Default primary key field type",
+        "detail": "LLM_query_builder.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "LLM_query_builder.settings",
+        "description": "LLM_query_builder.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = 'static/'\nSTATICFILES_DIRS = [\n    os.path.join(BASE_DIR, 'frontend/build/static')    \n]\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field",
+        "detail": "LLM_query_builder.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "LLM_query_builder.settings",
+        "description": "LLM_query_builder.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = 'static/'\nSTATICFILES_DIRS = [\n    os.path.join(BASE_DIR, 'frontend/build/static')    \n]\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "LLM_query_builder.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "LLM_query_builder.settings",
+        "description": "LLM_query_builder.settings",
+        "peekOfCode": "STATIC_URL = 'static/'\nSTATICFILES_DIRS = [\n    os.path.join(BASE_DIR, 'frontend/build/static')    \n]\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "LLM_query_builder.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATICFILES_DIRS",
+        "kind": 5,
+        "importPath": "LLM_query_builder.settings",
+        "description": "LLM_query_builder.settings",
+        "peekOfCode": "STATICFILES_DIRS = [\n    os.path.join(BASE_DIR, 'frontend/build/static')    \n]\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "LLM_query_builder.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "LLM_query_builder.settings",
+        "description": "LLM_query_builder.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "LLM_query_builder.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "LLM_query_builder.urls",
+        "description": "LLM_query_builder.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('api/', include(\"api.urls\", namespace = \"api\")),\n    path('',TemplateView.as_view(template_name='index.html'))\n]",
+        "detail": "LLM_query_builder.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "LLM_query_builder.wsgi",
+        "description": "LLM_query_builder.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "LLM_query_builder.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "manage",
+        "description": "manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'LLM_query_builder.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "manage",
+        "documentation": {}
+    }
+]
