@@ -20,6 +20,11 @@ async def test(data: UserInputSerializer):
     prompts = prompt_controller.build_prompts(user_prompt)
     #prompts = "\n".join(prompts)
     print(prompts)
+    
+    output_prompt = "\n"
+    for prompt in prompts:
+        output_prompt+="\n" + prompt + "\n"
+        
     llm_client = LLMAdapter.get_llm_instance()
     llm_client.set_properties()
     kql_query = await llm_client.invoke_llm_command_async(prompts, "")
@@ -30,9 +35,11 @@ async def test(data: UserInputSerializer):
 
     executor = QueryExecutionAdapter.get_query_executor()
     json_data = await executor.execute_query("sql", query)
-
+  
+    packed_data=[json_data, output_prompt, kql_query]
     print(json_data)
-    return json_data
+    # return json_data
+    return packed_data
     # if not json_data:
     #     json_data = json.dumps({"data": [{"results": "no records in db"}]})
     #     print("No data found")
