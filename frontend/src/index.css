@@ -90,3 +90,8 @@
 .showResult{
   font-family: "Georgia";
 }
+
+.result-table{
+  width: '100%';
+  padding-top: 25px;
+}

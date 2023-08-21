@@ -218,6 +218,8 @@ const ShowResult = (props) => {
 
   return (
     <div className="showResult">
+      <h2>Results: </h2>
+      <div className="result-table">
       <TableContainer component={Paper}>
         <Table sx={{ minWidth: 650 }} aria-label="simple table">
           <TableHead>
@@ -240,7 +242,7 @@ const ShowResult = (props) => {
           </TableBody>
         </Table>
       </TableContainer>
-
+      </div>
       <div className="root">
         <Accordion>
           <AccordionSummary
@@ -248,7 +250,7 @@ const ShowResult = (props) => {
             aria-controls="panel1a-content"
             id="panel1a-header"
           >
-            <Typography>Show graphs</Typography>
+            <Typography>Show Graphs</Typography>
           </AccordionSummary>
           <AccordionDetails>
             <TableContainer component={Paper}>
