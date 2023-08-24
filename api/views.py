@@ -13,7 +13,10 @@ from rest_framework import status
 from rest_framework.decorators import api_view
 from .models import UserInput
 from .serializers import UserInputSerializer
-from .Builder_py.index import test
+import sys
+sys.path.append('../')
+# from .Builder_py.index import test
+from Builder_py.index import test
 import asyncio
 
 @csrf_exempt

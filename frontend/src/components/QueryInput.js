@@ -24,7 +24,7 @@ const QueryInput = props => {
             <h2>Input fields</h2>
             <form onSubmit={handleSubmit}>
                 <label>Enter User Query:</label>
-                <textarea
+                <textarea className="user-query-input"
                     required
                     value={query}
                     onChange={(e) => setQuery(e.target.value)}

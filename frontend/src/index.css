@@ -95,3 +95,7 @@
   width: '100%';
   padding-top: 25px;
 }
+
+.user-query-input{
+  min-height: 120px;
+}
