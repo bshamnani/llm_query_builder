@@ -1,6 +1,5 @@
 import json
 from typing import List
-
 from Builder_py.MetadataManager import MetadataManager
 
 class KQLMetadataManager(MetadataManager):
@@ -23,23 +22,28 @@ class KQLMetadataManager(MetadataManager):
         }'''
 
     def getObjectMetadata(self, objectName: List[str]) -> List[str]:
-        tables = []
+        try:
+            tables = []
 
-        result = json.loads(self.json)
-        #print(result)
-        for table in objectName:
-            tableSchema = result.get(table)
-            if tableSchema is not None:
-                tableSchema = "Table " + table + " with columns " + tableSchema
-                tables.append(tableSchema)
+            result = json.loads(self.json)
+            #print(result)
+            for table in objectName:
+                tableSchema = result.get(table)
+                if tableSchema is not None:
+                    tableSchema = "Table " + table + " with columns " + tableSchema
+                    tables.append(tableSchema)
 
-        return tables
-        #result = json.loads(self.json)
-        #print(result)
-    
-        #for table in objectName:
-        #    if table in result:
-        #        table_schema = f"Table {table} with columns {result[table]}"
-        #        tables.append(table_schema)
-    
-        #return tables
+            return tables
+            #result = json.loads(self.json)
+            #print(result)
+        
+            #for table in objectName:
+            #    if table in result:
+            #        table_schema = f"Table {table} with columns {result[table]}"
+            #        tables.append(table_schema)
+        
+            #return tables
+            
+        except Exception as e:
+            print(f"An error occurred in getObjectMetadata: {e}")
+            raise

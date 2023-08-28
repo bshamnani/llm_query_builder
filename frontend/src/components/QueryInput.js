@@ -14,6 +14,10 @@ const QueryInput = props => {
 
     const handleSubmit = (e) => {
         e.preventDefault();
+        if (!query || !table) {
+            alert("Please fill in all required fields.");
+            return;
+        }
         const data = { query, table };
         console.log(data);
         callAPI({query, table});
@@ -33,8 +37,9 @@ const QueryInput = props => {
                 <select
                     value={table}
                     onChange={(e) => setTable(e.target.value)}
+                    required
                 >
-                    <option value="N/A">Select table</option>
+                    <option value="">Select table</option>
                     <option value="TestRunDetails">tests</option>
                     <option value="DeploymentMetadata">deployments</option>
                     <option value="Sybase_Results">sybase</option>
@@ -42,9 +47,7 @@ const QueryInput = props => {
                     <option value="CassandraTestSummary">cassandra</option>
                     <option value="TestInfraMetadata">infra</option>
                 </select>
-                <button>Execute Query</button>
-                {/* <p>{ table }</p>
-                <p>{ query }</p> */}
+                <button type="submit">Execute Query</button>
             </form>
         </div>
     );

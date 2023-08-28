@@ -1,7 +1,7 @@
 const NoPage = () => {
     return (
         <div className="nopage">
-            <h2>Error 404!</h2>
+            <h2>Please recheck the user query</h2>
         </div>
     );
 }

@@ -4,5 +4,10 @@ from Builder_py.GPTClient import GPTClient
 class LLMAdapter:
     @staticmethod
     def get_llm_instance() -> LLMClient:
-        llm_client = GPTClient()
-        return llm_client
+        try:
+            llm_client = GPTClient()
+            return llm_client
+        
+        except Exception as e:
+            print(f"An error occurred in get_llm_instance: {e}")
+            raise

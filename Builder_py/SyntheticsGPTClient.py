@@ -11,11 +11,15 @@ class SyntheticsGPTClient:
         self.model = ""
 
     async def get_kql_output(self):
-        prompt_controller = PromptController()
-        self.prompts = prompt_controller.build_prompts("From tables TestRunDetails and Resources generate KQL Query to retrieve only last 10 resource names that ran 'Sybase' tests based on datetime")
-        self.gpt_client = LLMAdapter.get_llm_instance()
-        self.gpt_client.set_properties()
-        #self.gpt_client.invoke_llm_command_async(self.prompts, self.model)
-        await self.gpt_client.invoke_llm_command_async(self.prompts, self.model)
+        try:
+            prompt_controller = PromptController()
+            self.prompts = prompt_controller.build_prompts("From tables TestRunDetails and Resources generate KQL Query to retrieve only last 10 resource names that ran 'Sybase' tests based on datetime")
+            self.gpt_client = LLMAdapter.get_llm_instance()
+            self.gpt_client.set_properties()
+            #self.gpt_client.invoke_llm_command_async(self.prompts, self.model)
+            await self.gpt_client.invoke_llm_command_async(self.prompts, self.model)
 
+        except Exception as e:
+            print(f"An error occurred in get_kql_output: {e}")
+            raise
 

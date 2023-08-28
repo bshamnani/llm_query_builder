@@ -1,6 +1,5 @@
 from typing import List
 from abc import ABC, abstractmethod
-
 from Builder_py.IMetadataManager import IMetadataManager
 
 class MetadataManager(IMetadataManager):

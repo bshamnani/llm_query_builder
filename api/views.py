@@ -1,12 +1,3 @@
-# from django.shortcuts import render
-# from django.http import HttpResponse
-
-
-# # Create your views here.
-
-# def main(request):
-#     return HttpResponse("Hello")
-
 from django.views.decorators.csrf import csrf_exempt
 from rest_framework.response import Response
 from rest_framework import status
@@ -23,12 +14,19 @@ import asyncio
 @api_view(['POST'])
 def main(request):
     if request.method == 'POST':
-        print(request.data)
-        serializer = UserInputSerializer(data=request.data)
-        print(f"s = {serializer}")
-        if serializer.is_valid():
-            return Response(data=asyncio.run(test(serializer.data)), status=status.HTTP_201_CREATED)
-        return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
-    
+        try:
+            if not request.data:
+                return Response("Request data is empty.", status=status.HTTP_400_BAD_REQUEST)
+            print(request.data)
+            serializer = UserInputSerializer(data=request.data)
+            print(f"s = {serializer}")
+            if serializer.is_valid():
+                return Response(data=asyncio.run(test(serializer.data)), status=status.HTTP_201_CREATED)
+            else:          
+                return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
+        
+        except Exception as e:
+            return Response(f"An error occurred: {str(e)}", status=status.HTTP_500_INTERNAL_SERVER_ERROR)
+        
     elif request.method == 'GET':
         return Response("Hello", status=status.HTTP_200_OK)

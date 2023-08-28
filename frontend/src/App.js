@@ -8,7 +8,6 @@ import QueryInput from './components/QueryInput';
 
 function App() {
   return (
-    
       <div className="App">
         <BrowserRouter>
         <Navbar />
